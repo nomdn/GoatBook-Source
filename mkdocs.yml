@@ -3,6 +3,7 @@ nav:
   - 主页: index.md
   - 会议记录: meeting.md
   - 一些名词: name.md
+  - 历史要事: lsys.md
 
 theme:
   name: material
