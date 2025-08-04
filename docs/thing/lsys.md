@@ -36,9 +36,9 @@
 
 ## mumu私自建立伪政府案
 `2025年8月4日`
-- mumu心怀不轨，企图叛乱
-- mumu认识到自己的错误，解散伪政府
-- 事后，党内决定**不再追究**mumu的刑事责任
+- mumu心怀不轨，企图叛乱  
+- mumu认识到自己的错误，解散伪政府   
+- 事后，党内决定**不再追究**mumu的刑事责任  
 
 <div id="giscus"></div>
 <script src="https://giscus.app/client.js"
