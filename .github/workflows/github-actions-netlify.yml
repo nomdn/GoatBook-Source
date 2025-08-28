@@ -28,11 +28,15 @@ jobs:
 
       - name: Build MkDocs Site
         run: mkdocs build
-      - name: Deploy to netlify
-        uses: South-Paw/action-netlify-cli@2.0.0
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          args: deploy --dir=site --prod
-        env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          # Upload entire repository
+          path: './site'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
 
