@@ -1,0 +1,31 @@
+pull_request_rules:
+  - name: 🚀 当 Netlify 检查完成、预览就绪且审查通过时自动合并
+    conditions:
+      # 👇 目标分支（请根据实际情况修改：main / master）
+      - base=main
+
+      # 👇 Netlify 的三项检查必须完成（success 或 neutral）
+      - check-success=Netlify: Header rules - goatwiki
+      - check-success=Netlify: Pages changed - goatwiki
+      - check-success=Netlify: Redirect rules - goatwiki
+
+      # 👇 必须出现 Netlify 预览就绪的评论
+      - commented-body~=(?i)✅ Deploy Preview for goatwiki ready!
+
+      # 👇 至少一个代码审查批准
+      - "#approved-reviews-by>=1"
+
+      # 👇 确保没有合并冲突
+      - conflict=False
+
+      # 👇 可选：仅限文档类文件变更（提高安全性）
+      # - files=docs/**,*.md,*.yaml,*.yml
+
+      # 👇 可选：排除某些作者（如机器人）
+      # - author!=dependabot[bot]
+
+    actions:
+      merge:
+        method: merge          # 合并方式：merge（保留历史）、squash（压缩）、rebase（变基）
+        strict: true           # 自动同步主分支最新代码
+        strict_method: merge   # 使用 merge 方式更新 PR 分支

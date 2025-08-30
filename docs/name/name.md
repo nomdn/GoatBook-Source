@@ -6,15 +6,13 @@
 ![](https://img.wsmdn.dpdns.org/img/goat.jpg){ width=30% }  
 茕山羊全称**茕茕孑立的山羊**  
 原名**刘峪企**  
-![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){ width=10% }  
-住址:吉林省四平市梨树县富邦四期4单元2号楼502  
-身份证号:22032220101107XXXX  
-伟大的群主
+![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){ width=10% }    
+伟大的群主  
 国父、开国元勋  
 曾多次担任总统(或主席)  
 一国两治思想的奠基人之一  
 一、三次文革的策划者  
-茕羊民粹党的创立人之一  
+茕羊民主党的创立人之一  
 ## 我 {#me}
 本维基中的*“我”*在没有特殊说明的情况下，一般指群员[mdn](#mdn)  
 ## mdn
@@ -26,8 +24,7 @@ mdn：本站开发者，平平无奇的审稿人
 全名：Emerald_绿宝石  
 原名：李旺源  
 ![](https://img.wsmdn.dpdns.org/img/emer.jpeg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_cat.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_leg.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_half_body.jpeg){ width=10% }   
-吉林省长春市农安县生人  
-生日5.30  
+吉林省长春市农安县生人   
 曾任两次总统    
 开国元勋  
 现因入狱结束任期  
@@ -74,8 +71,7 @@ mdn：本站开发者，平平无奇的审稿人
 试图建立都护府（失败了） 
 ## 红树原木 {#redwood}
 ![红大衰比](https://img.wsmdn.dpdns.org/img/红树原木.jpg){ width=30% }   
-茕羊民国传奇机长、曾被授予*萨利·里德昂航空安全奖*  
-住址：河北省保定市莲池区南关街道灵雨寺街289号  
+茕羊民国传奇机长、曾被授予*萨利·里德昂航空安全奖*    
 暴露狂、喜欢**双性人**   
 ## zbldyyds {#zbldyyds}
 2025/8/15加入茕羊国际，~~爱好赤石~~（群内唯一担任）<br>
